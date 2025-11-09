@@ -42,7 +42,7 @@ export function DashboardHeader({ uploadedFile, onUploadNew, user, onSignOut }: 
         </div>
         
         <div className="flex items-center space-x-4">
-          <Button variant="outline" size="sm">
+          {/* <Button variant="outline" size="sm">
             <RefreshCw className="w-4 h-4 mr-2" />
             Refresh Analysis
           </Button>
@@ -50,7 +50,7 @@ export function DashboardHeader({ uploadedFile, onUploadNew, user, onSignOut }: 
           <Button variant="outline" size="sm">
             <Download className="w-4 h-4 mr-2" />
             Export Report
-          </Button>
+          </Button> */}
 
           {uploadedFile && onUploadNew && (
             <Button variant="outline" size="sm" onClick={onUploadNew}>

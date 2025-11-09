@@ -145,8 +145,8 @@ export function SignInPage({ onSignIn }: SignInPageProps) {
           {/* Brand Logo */}
           <div className="font-['Italiana:Regular',_sans-serif] text-[#101010]">
             <h1 className="text-3xl sm:text-4xl lg:text-5xl leading-tight">
-              <span className="text-[#101010] font-normal font-[Italiana] not-italic font-bold text-[40px]">ThreadInsights</span>
-              <span className="text-[#315596] text-[42px] font-normal font-bold font-[Abril_Fatface]">.AI</span>
+              <span className="text-[#101010] font-normal font-[Italiana] not-italic font-bold text-[40px]">Thread</span>
+              <span className="text-[#315596] text-[42px] font-normal font-bold font-[Abril_Fatface]">.Analyzer</span>
             </h1>
           </div>
           

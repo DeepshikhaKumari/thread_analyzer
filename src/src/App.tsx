@@ -315,7 +315,7 @@ export default function App() {
                     <span>•</span>
                     <span>Analysis Status: <span className="text-[#151515] font-semibold">Complete</span></span>
                     <span>•</span>
-                    <span>Analyzed by: threadinsights.ai</span>
+                    <span>Analyzed by: thread.analyzer</span>
                   </div>
 
                   {/* Mobile File Details */}

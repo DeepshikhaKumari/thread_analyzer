@@ -103,7 +103,7 @@ export function NewSidebar({ activeView, setActiveView, user, isMobile = false, 
         transition={{ delay: 0.2, duration: 0.5 }}
       >
         <h1 className="text-[24px] md:text-[26px] lg:text-[30px] font-normal leading-normal font-['Italiana'] mb-1">
-          <span className="text-white text-[32px]">ThreadInsights</span><span className="text-[#315596] font-bold font-[Abril_Fatface] text-[32px]">.AI</span>
+          <span className="text-white text-[32px]">Thread</span><span className="text-[#315596] font-bold font-[Abril_Fatface] text-[32px]">.Analyzer</span>
         </h1>
       </motion.div>
 

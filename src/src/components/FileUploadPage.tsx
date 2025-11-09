@@ -357,10 +357,10 @@ export function FileUploadPage({
             style={{ fontFamily: "Italiana, serif" }}
           >
             <span className="text-white text-[64px]">
-              ThreadInsights
+              Thread
             </span>
             <span className="text-[#8fbffa] font-[Abril_Fatface] text-[64px]">
-              .AI
+              .Analyzer
             </span>
           </h1>
           <p className="text-[20px] text-white text-center max-w-4xl leading-normal mb-12">
@@ -611,11 +611,11 @@ export function FileUploadPage({
         </div>
       </div>
 
-      {/* Why Choose ThreadInsights.AI Section */}
+      {/* Why Choose Thread.Analyzer Section */}
       <div className="bg-gradient-to-r from-[#315596] to-[#101b30] py-20">
         <div className="max-w-7xl mx-auto px-6">
           <h2 className="text-[30px] font-semibold text-white text-center mb-16">
-            Why Choose ThreadInsights.AI?
+            Why Choose Thread.Analyzer?
           </h2>
 
           {/* Enhanced single-line layout with responsive behavior and staggered animation */}
@@ -882,10 +882,10 @@ export function FileUploadPage({
               style={{ fontFamily: "Italiana, serif" }}
             >
               <span className="text-white text-[36px]">
-                ThreadInsights
+                Thread
               </span>
               <span className="text-[#8fbffa] font-[Abril_Fatface] text-[34px]">
-                .AI
+                .Analyzer
               </span>
             </h3>
           </div>
